@@ -16,18 +16,10 @@ NB: Soyez patient, cela peut prendre un peu de temps en fonction de votre enviro
 
 ## Le projet
 
-Pour tester le premier, execute la commende suivante:
+Pour tester , execute la commende suivante:
 ```
-ruby .rb
-```
-
-Pour le second:
-```
-ruby .rb
-```
-
-Et pour la dernière:
-```
-ruby .rb
+ruby nom_du_fichier.rb
 ```
 NB: libre à vous de faire "Ctrl + c" pour arreter la commende en cas de besoin.
+
+### Enjoy
