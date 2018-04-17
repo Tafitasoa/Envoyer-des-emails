@@ -1,28 +1,30 @@
-# Envoyer-des-emails
+# ce projet consiste à scrapper à tweeter et à envoyer des emails
 
-Bonjour chère correcteur très cool! Le pojet suivant est le fruit de la collaboration de:
-- RianaRC, 
-- Meyer, 
-- Nao 
-- et Cédric
 
-### Avant tout, on vas préparé l'environnement
+   	Pour ce projet, l'équipe est constitué de @tinosam, @fetra, @fenitra et de @Hari.
+    Le programme envoi des emails aux mairies de France pour les inciter à participer à THP. 
+    
+   Grâce au scrapping, on a récupéré les inforamations nécessaires sur les mairies. Des données récupérer dans un fichier JSON qui envoie les emails aux mairies indiquées et les follows sur twitter.
 
-Accédez-vous à /Envoyer_des_emails dans le terminal et execute la commende suivante:
-```
-Bundle install
-```
-NB: Soyez patient, cela peut prendre un peu de temps en fonction de votre environnement.
+# Tache :
+    @fenitra s'est occupé su scrap, @fetra du bot, @tinosam du mailer et de l'association du projet et @Hari du readme et des gems
 
-## Le projet
+# Installation :
 
-Tout d'abord, entrer dans le departement que vous souhaité, ensuite
-Pour tester , execute la commende suivante:
-```
-ruby nom_du_fichier.rb    #de votre choix
-```
-NB: libre à vous de faire "Ctrl + c" pour arreter la commende en cas de besoin.
+    $ bundle install nous a permit d'installer les gems utilisées, et le bot d'avoir un retour sur les emails.
+    
+# N.B :
+   Le programme va necessité votre adresse e-mail et vos divers key tweeter donc crée un fichier .env
+   Dans env :
+   
+  	GOOGLE_API_GMAIL=......@gmail.com 
+  	GOOGLE_API_PASS= votre mot de passe
 
-### Enjoy
-
-Toute l'equipe
+	TWITTER_API_KEY= votre clé api </br>
+  	TWITTER_API_SECRET= votre mot de passe
+  	BEST__WEBSITE_EVER= https://github.com/.....
+  	TWITTER_TOKEN = votre tokken
+  	TWITTER_TOKEN_ACCESS = votre mot de passe
+    
+# semaine_3_jour_2
+# team_mada
