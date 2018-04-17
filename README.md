@@ -1,2 +1,2 @@
 # Envoyer-des-emails
-Collaboration de RianaRC, Mayer, Nao et Cédric
+Collaboration de RianaRC, Meyer, Nao et Cédric
