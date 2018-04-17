@@ -4,7 +4,7 @@ Bonjour chère correcteur très cool! Le pojet suivant est le fruit de la collab
 - RianaRC, 
 - Meyer, 
 - Nao 
-et Cédric
+- et Cédric
 
 ### Avant tout, on vas préparé l'environnement
 
