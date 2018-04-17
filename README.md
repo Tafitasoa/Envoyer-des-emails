@@ -16,10 +16,13 @@ NB: Soyez patient, cela peut prendre un peu de temps en fonction de votre enviro
 
 ## Le projet
 
+Tout d'abord, entrer dans le departement que vous souhaité, ensuite
 Pour tester , execute la commende suivante:
 ```
-ruby nom_du_fichier.rb
+ruby nom_du_fichier.rb    #de votre choix
 ```
 NB: libre à vous de faire "Ctrl + c" pour arreter la commende en cas de besoin.
 
 ### Enjoy
+
+Toute l'equipe
