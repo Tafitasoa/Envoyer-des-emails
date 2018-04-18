@@ -12,6 +12,8 @@
     $ bundle install     permet d'installer les gems utilisées, et le bot d'avoir un retour sur les emails.
     
 # N.B :
+   Executer index.rb
+   
    Il se peut que le programme prend un certain temps.
    
    Le programme va necessité votre adresse e-mail et vos divers key tweeter donc crée un fichier .env
