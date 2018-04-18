@@ -16,6 +16,8 @@
    
    Il se peut que le programme prend un certain temps.
    
+   N'hésiter pas à nous contacter sur slack en cas de problème (@Meyer)
+   
    Le programme va necessité votre adresse e-mail et vos divers key tweeter donc crée un fichier .env
    Dans env :
    
