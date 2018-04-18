@@ -12,6 +12,8 @@
     $ bundle install     permet d'installer les gems utilisées, et le bot d'avoir un retour sur les emails.
     
 # N.B :
+   Ces programmes nécessitent une version de ruby 2.5  
+   
    Executer index.rb
    
    Il se peut que le programme prend un certain temps.
